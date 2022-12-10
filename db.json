@@ -28,25 +28,25 @@
     "isometric": [
         {
             "name": "Nintendo Switch",
-            "image": "projects/nintendo.webp"
+            "image": "nintendo.webp"
         },
         {
             "name": "PC Component",
-            "image": "projects/pc.webp"
+            "image": "pc.webp"
         },
         {
             "name": "Playstation2",
-            "image": "projects/ps2.webp"
+            "image": "ps2.webp"
         },
         {
             "name": "Smartphone",
-            "image": "projects/phone.webp"
+            "image": "phone.webp"
         }
     ],
     "web": [
         {
             "name": "Menfess Skaniga",
-            "image": "projects/menfess.webp"
+            "image": "menfess.webp"
         }
     ]
 }
