@@ -1,5 +1,5 @@
 {
-    "data": [
+    "ui": [
         {
             "name": "Brawl Stars Hero Information",
             "image": "projects/brawlstars.webp"
@@ -20,6 +20,30 @@
             "name": "Forum Pamekasancode",
             "image": "projects/forum.webp"
         },
+        {
+            "name": "Menfess Skaniga",
+            "image": "projects/menfess.webp"
+        }
+    ],
+    "isometric": [
+        {
+            "name": "Nintendo Switch",
+            "image": "projects/nintendo.webp"
+        },
+        {
+            "name": "PC Component",
+            "image": "projects/pc.webp"
+        },
+        {
+            "name": "Playstation2",
+            "image": "projects/ps2.webp"
+        },
+        {
+            "name": "Smartphone",
+            "image": "projects/phone.webp"
+        }
+    ],
+    "web": [
         {
             "name": "Menfess Skaniga",
             "image": "projects/menfess.webp"
