@@ -2,27 +2,27 @@
     "ui": [
         {
             "name": "Brawl Stars Hero Information",
-            "image": "projects/brawlstars.webp"
+            "image": "brawlstars.webp"
         },
         {
             "name": "Game Downloader",
-            "image": "projects/gamestore.webp"
+            "image": "gamestore.webp"
         },
         {
             "name": "Wibu Store",
-            "image": "projects/wibustore.webp"
+            "image": "wibustore.webp"
         },
         {
             "name": "Streed Food Location",
-            "image": "projects/jajanan.webp"
+            "image": "jajanan.webp"
         },
         {
             "name": "Forum Pamekasancode",
-            "image": "projects/forum.webp"
+            "image": "forum.webp"
         },
         {
             "name": "Menfess Skaniga",
-            "image": "projects/menfess.webp"
+            "image": "menfess.webp"
         }
     ],
     "isometric": [
